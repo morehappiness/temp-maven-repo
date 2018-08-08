@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 18:22:35 CST 2018
+configuration_persistence-1.0.2.jar>=
+configuration_persistence-1.0.2.pom>=

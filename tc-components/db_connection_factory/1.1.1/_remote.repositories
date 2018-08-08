@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 18:22:35 CST 2018
+db_connection_factory-1.1.1.jar>=
+db_connection_factory-1.1.1.pom>=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 18:22:51 CST 2018
+file_system_server-1.1.1.jar>=
+file_system_server-1.1.1.pom>=

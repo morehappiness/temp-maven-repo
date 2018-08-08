@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 08 18:23:13 CST 2018
+http\://repo1.maven.org/maven2/.error=
+https\://github.com/deedee/temp-maven-repo/raw/master/.lastUpdated=1533723793132
+http\://repo1.maven.org/maven2/.lastUpdated=1533723790156
+http\://maven.appirio.net\:8080/.error=Could not transfer artifact com.topcoder.internal\:security\:jar\:1.0.0 from/to Appirio Technology Maven Repository (http\://maven.appirio.net\:8080/)\: maven.appirio.net
+@default-Appirio\ Technology\ Maven\ Repository-http\://maven.appirio.net\:8080/.lastUpdated=1533723790172
